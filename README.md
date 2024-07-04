@@ -1,6 +1,6 @@
 ## Hi guys! 👋
 
-🌱 I’m currently learning AWS cloud and .net backend AI </br>
+🌱 I’m currently learning AWS cloud (CFL-C02) and .net backend AI </br>
 🔭 I’m currently working on Tech Lead OutSystems projects and .Net tips </br>
 📫 How to reach me: gaspari.rodrigo@gmail.com </br>
 📖 For more information please visit my <a href= "https://www.linkedin.com/in/rodrigo-gaspari-38445526/"> Linkedin </a></br>  
